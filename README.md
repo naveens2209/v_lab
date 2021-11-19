@@ -1,16 +1,3 @@
-# v_lab
+# v_lab app
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With the inset of COVID-19, the learning is entirely dependent and possible through digital learning only. Its advantages include independent and self-paced learning and nullifying the geographical differences as a learner can learn from any geographical part of the world as long as they have an active high-speed internet and an electronic device such as a mobile, laptop, tablet, etc. According to research conducted, students found online classes more relaxing and effective than traditional classes. Moreover, physical classes require additional costs like transportation costs and hostel/accommodation costs, which can be overcome using online learning mode. Although it has numerous advantages, it brings some challenges for the teachers to teach certain topics and subjects through online teaching effectively, and the ability to give additional support to learners requiring it is under question. The learning and evaluating part is more challenging than teaching in an online or digital learning process. In colleges, the theoretical subjects were quickly implemented and practiced. Still, it was not the same with lab subjects, thus needing platforms such as virtual labs, in this case, a virtual computer lab that ensures the lab is conducted effectively with proper monitoring and evaluation. Virtual labs have proved to address some of the issues encountered and helped contribute positively to achieving learning goals and a better understanding of the topics. The virtual lab, in this case, provides good security as it uses the OTP technique for users during login. It provides a chat feature that helps the users communicate with the concerned faculty with any problem they might have encountered or get some insight into the topics. It also provides an inbuilt compiler that can compile some common languages like C, C++, etc. The lab also has a timer feature which can be helpful while conducting some exams or for assignments. No existing apps used for practicing lab work have all these features as such in a single platform which can be considered advantageous.
